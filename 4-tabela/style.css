@@ -1,0 +1,26 @@
+* {
+    margin:25px;
+}
+.moda {
+    color:#FFF;
+}
+.moda th {
+    background-color:#BB86FC;
+    padding:5px;
+}
+.moda td {
+    background-color:#424250;
+    padding:5px;
+}
+
+.casa {
+    color:#FFF;
+}
+.casa th {
+    background-color:#00C4B4;
+    padding:5px;
+}
+.casa td {
+    background-color:#424250;
+    padding:5px;
+}
